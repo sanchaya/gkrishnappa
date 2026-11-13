@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://gkrishnappa.sanchaya.net/sitemap.xml
